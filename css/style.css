@@ -216,8 +216,8 @@ body {
 
 	.child:nth-child(1) .card-footer {
 		flex-direction: row;
-	} 
-	
+	}
+
 	.card-footer a {
 		width: auto;
 	}
